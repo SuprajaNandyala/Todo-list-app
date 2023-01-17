@@ -1,0 +1,45 @@
+.profile{
+
+    padding: 20px;
+  
+    border: 3px solid black;
+  
+  }
+  
+  .profile_details,.todos_details,.todoEach_details{
+  
+    background-color: rgb(95, 144, 128);
+  
+    width: max-content;
+  
+    /* height: 80%; */
+  
+    overflow-x: auto;
+  
+    overflow-y: auto;
+  
+    /* overflow-y: scroll; */
+  
+    overflow-wrap: break-word;
+  
+    border: 5px solid black;
+  
+    padding: 40px;
+  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  }
+  
+  .profile_h2,.todos_h2,.todoEach_h2{
+  
+    margin: 0;
+  
+    padding-bottom: 20px;
+  
+  }
+  
+  .profile_label,.todoEach_label{
+  
+    font-weight: bold;
+  
+  }
